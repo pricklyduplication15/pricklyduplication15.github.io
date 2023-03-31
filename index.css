@@ -1,0 +1,73 @@
+/* Set global styles for the page */
+body {
+    background-color: #ffffff;
+    font-family: "Helvetica Neue", sans-serif;
+    color: #444444;
+    line-height: 1.5;
+  }
+  
+  /* Set styles for headers and titles */
+  h1, h2 {
+    font-family: "Dancing Script", cursive;
+    color: #4169E1;
+    text-transform: uppercase;
+  }
+  
+  /* Set styles for links */
+  a {
+    color: #4169E1;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Set styles for the container */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #c0c0c0;
+    box-shadow: 0 0 10px #c0c0c0;
+  }
+  
+  /* Set styles for the registry */
+  .registry {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .registry iframe {
+    border: none;
+  }
+  
+  /* Set styles for the menu */
+  .menu {
+    margin-top: 50px;
+  }
+  
+  .menu li {
+    margin-bottom: 10px;
+  }
+  
+  /* Set styles for the details */
+  .details {
+    margin-top: 50px;
+  }
+  
+  .details p {
+    margin-bottom: 10px;
+  }
+  
+  /* Set styles for the photos */
+  .photos {
+    margin-top: 50px;
+  }
+  
+  .photos img {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
